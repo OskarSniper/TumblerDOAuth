@@ -1,0 +1,13 @@
+D:\BitBucket\TumblrDirtyWay\TumblrDirtyWay\bin\Debug\TumblrDirtyWay.exe.config
+D:\BitBucket\TumblrDirtyWay\TumblrDirtyWay\bin\Debug\TumblrDirtyWay.exe
+D:\BitBucket\TumblrDirtyWay\TumblrDirtyWay\bin\Debug\TumblrDirtyWay.pdb
+D:\BitBucket\TumblrDirtyWay\TumblrDirtyWay\obj\Debug\TumblrDirtyWay.csprojResolveAssemblyReference.cache
+D:\BitBucket\TumblrDirtyWay\TumblrDirtyWay\obj\Debug\TumblrDirtyWay.exe
+D:\BitBucket\TumblrDirtyWay\TumblrDirtyWay\obj\Debug\TumblrDirtyWay.pdb
+D:\BitBucket\TumblrDirtyWay\TumblrDirtyWay\bin\Debug\OAuth.dll
+D:\BitBucket\TumblrDirtyWay\TumblrDirtyWay\bin\Debug\OAuth.pdb
+D:\BitBucket\TumblrDirtyWay\TumblrDirtyWay\bin\Debug\OAuth.xml
+D:\BitBucket\TumblrDirtyWay\TumblrDirtyWay\bin\Debug\Newtonsoft.Json.dll
+D:\BitBucket\TumblrDirtyWay\TumblrDirtyWay\obj\Debug\TumblrDirtyWay.csproj.TumblrDirtyWay.exe.config
+D:\BitBucket\TumblrDirtyWay\TumblrDirtyWay\obj\Debug\TumblrDirtyWay.Form1.resources
+D:\BitBucket\TumblrDirtyWay\TumblrDirtyWay\obj\Debug\TumblrDirtyWay.csproj.GenerateResource.Cache
