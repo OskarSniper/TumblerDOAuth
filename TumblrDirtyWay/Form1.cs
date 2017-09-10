@@ -33,7 +33,7 @@ namespace TumblrDirtyWay
             Console.WriteLine(@"   | || |_| | | | | | | |_) | | |    | |_| | |_| / ___ \ |_| | |_| | | |");
             Console.WriteLine(@"   |_| \__,_|_| |_| |_|_.__/|_|_|    |____/ \___/_/   \_\__,_|\__|_| |_|");
             Console.WriteLine();
-            Console.WriteLine("Tumblr Dirty Open Authentification, (c) Sebastian.");
+            Console.WriteLine("Tumblr Dirty Open Authentification, (c) Sebastian Waldbauer.");
             Console.WriteLine("Tool was made in 3 days, used library -> https://github.com/piedoom/TumblrSharp");
             Console.WriteLine("and our own Callback Server because OAuth is shit!");
             Console.WriteLine();
